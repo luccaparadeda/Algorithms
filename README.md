@@ -18,7 +18,7 @@ O objetivo deste projeto é facilitar a compreensão dos algoritmos para quem es
 (Importante deixar claro que nem todos os algoritmos que já implementei estarão aqui hehe.)
 
 ## Estrutura do Repositório
-A organização do repositório será feita de forma que cada estrutura de dados tenha sua própria pasta, contendo implementações dos algoritmos relacionados. Além disso, cada algoritmo pode ser desenvolvido em diferentes linguagens de programação, garantindo flexibilidade na escolha da linguagem.
+A organização do repositório será feita de forma que cada estrutura de dados tenha sua própria pasta, contendo implementações dos algoritmos relacionados.
 
 ## Como Rodar
 Cada algoritmo terá um `Makefile` ou um `Dockerfile` para facilitar a execução e os testes.
